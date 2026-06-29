@@ -1,0 +1,9 @@
+python-dotenv
+faker
+pandas
+rich
+tabulate
+ipykernel
+jupyter
+supabase
+openai
